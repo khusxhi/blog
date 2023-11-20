@@ -12,7 +12,9 @@
   "note-composer",
   "command-palette",
   "editor-status",
+  "bookmarks",
   "random-note",
   "word-count",
-  "file-recovery"
+  "file-recovery",
+  "publish"
 ]
