@@ -19,8 +19,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "54b8f7f5f3a3018c",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.4.16"
+              }
+            }
           }
         ],
+        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -251,11 +262,10 @@
       "obsidian-extract-pdf-highlights:PDF Highlights": false,
       "obsidian-textgenerator-plugin:Generate Text!": false,
       "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false,
-      "periodic-notes:Open today": false,
-      "breadcrumbs:Breadcrumbs Visualisation": false
+      "periodic-notes:Open today": false
     }
   },
-  "active": "57dcd1855a372aed",
+  "active": "54b8f7f5f3a3018c",
   "lastOpenFiles": [
     "Khushi.md",
     "Thesis (Brainstorming).md",
