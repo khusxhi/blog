@@ -4,34 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "ef0882c15c504b44",
+        "id": "be92713fe1b55b9e",
         "type": "tabs",
         "children": [
           {
-            "id": "57dcd1855a372aed",
+            "id": "c8309622ae1df6f0",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Khushi.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "54b8f7f5f3a3018c",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.4.16"
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ],
-        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -114,7 +98,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Khushi.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +114,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Khushi.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -198,7 +180,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Khushi.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -262,10 +243,11 @@
       "obsidian-extract-pdf-highlights:PDF Highlights": false,
       "obsidian-textgenerator-plugin:Generate Text!": false,
       "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false,
-      "periodic-notes:Open today": false
+      "periodic-notes:Open today": false,
+      "breadcrumbs:Breadcrumbs Visualisation": false
     }
   },
-  "active": "54b8f7f5f3a3018c",
+  "active": "c8309622ae1df6f0",
   "lastOpenFiles": [
     "Khushi.md",
     "Thesis (Brainstorming).md",
